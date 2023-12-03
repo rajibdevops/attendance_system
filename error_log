@@ -1,0 +1,223 @@
+[12-Oct-2023 20:10:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/srajib/public_html/BasmahAttendance/db.php on line 6
+[12-Oct-2023 20:50:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/BasmahAttendance/login.php:8) in /home/srajib/public_html/BasmahAttendance/login.php on line 64
+[12-Oct-2023 20:50:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/BasmahAttendance/login.php:8) in /home/srajib/public_html/BasmahAttendance/login.php on line 64
+[12-Oct-2023 20:51:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/BasmahAttendance/login.php:8) in /home/srajib/public_html/BasmahAttendance/login.php on line 66
+[12-Oct-2023 20:52:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/BasmahAttendance/login.php:8) in /home/srajib/public_html/BasmahAttendance/login.php on line 66
+[12-Oct-2023 20:54:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/BasmahAttendance/login.php:8) in /home/srajib/public_html/BasmahAttendance/login.php on line 64
+[12-Oct-2023 20:56:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/BasmahAttendance/login.php:9) in /home/srajib/public_html/BasmahAttendance/login.php on line 65
+[12-Oct-2023 20:57:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/BasmahAttendance/login.php:9) in /home/srajib/public_html/BasmahAttendance/login.php on line 65
+[20-Oct-2023 21:05:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:5) in /home/srajib/public_html/basmah_attendance/login.php on line 60
+[20-Oct-2023 21:05:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:5) in /home/srajib/public_html/basmah_attendance/login.php on line 62
+[20-Oct-2023 21:07:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:5) in /home/srajib/public_html/basmah_attendance/login.php on line 60
+[20-Oct-2023 21:09:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:5) in /home/srajib/public_html/basmah_attendance/login.php on line 60
+[20-Oct-2023 21:38:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:5) in /home/srajib/public_html/basmah_attendance/login.php on line 60
+[20-Oct-2023 21:41:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:5) in /home/srajib/public_html/basmah_attendance/login.php on line 60
+[20-Oct-2023 21:42:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:5) in /home/srajib/public_html/basmah_attendance/login.php on line 60
+[20-Oct-2023 21:44:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:5) in /home/srajib/public_html/basmah_attendance/login.php on line 60
+[20-Oct-2023 21:44:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:5) in /home/srajib/public_html/basmah_attendance/login.php on line 60
+[20-Oct-2023 22:02:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:5) in /home/srajib/public_html/basmah_attendance/login.php on line 60
+[20-Oct-2023 22:03:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:5) in /home/srajib/public_html/basmah_attendance/login.php on line 60
+[20-Oct-2023 22:03:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:5) in /home/srajib/public_html/basmah_attendance/login.php on line 60
+[20-Oct-2023 22:11:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:3) in /home/srajib/public_html/basmah_attendance/login.php on line 57
+[20-Oct-2023 22:11:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:3) in /home/srajib/public_html/basmah_attendance/login.php on line 57
+[20-Oct-2023 22:18:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:3) in /home/srajib/public_html/basmah_attendance/login.php on line 59
+[20-Oct-2023 22:19:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:3) in /home/srajib/public_html/basmah_attendance/login.php on line 59
+[21-Oct-2023 14:13:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:3) in /home/srajib/public_html/basmah_attendance/login.php on line 57
+[21-Oct-2023 14:13:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:3) in /home/srajib/public_html/basmah_attendance/login.php on line 57
+[21-Oct-2023 20:40:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:3) in /home/srajib/public_html/basmah_attendance/login.php on line 58
+[21-Oct-2023 20:41:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srajib/public_html/basmah_attendance/login.php:3) in /home/srajib/public_html/basmah_attendance/login.php on line 58
+[21-Oct-2023 21:52:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/srajib/public_html/basmah_attendance/note.php on line 254
+[21-Oct-2023 21:53:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/srajib/public_html/basmah_attendance/note.php on line 254
+[21-Oct-2023 21:53:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/srajib/public_html/basmah_attendance/note.php on line 254
+[21-Oct-2023 21:54:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/srajib/public_html/basmah_attendance/note.php on line 254
+[21-Oct-2023 22:17:47 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/srajib/public_html/basmah_attendance/note.php on line 287
+[21-Oct-2023 22:17:50 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/srajib/public_html/basmah_attendance/note.php on line 287
+[21-Oct-2023 22:17:51 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/srajib/public_html/basmah_attendance/note.php on line 287
+[21-Oct-2023 22:17:53 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/srajib/public_html/basmah_attendance/note.php on line 287
+[21-Oct-2023 22:20:28 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/srajib/public_html/basmah_attendance/note.php on line 287
+[21-Oct-2023 22:25:26 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/srajib/public_html/basmah_attendance/note.php on line 287
+[21-Oct-2023 22:25:29 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/srajib/public_html/basmah_attendance/note.php on line 287
+[21-Oct-2023 22:25:34 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/srajib/public_html/basmah_attendance/note.php on line 287
+[21-Oct-2023 22:25:54 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/srajib/public_html/basmah_attendance/note.php on line 287
+[21-Oct-2023 22:27:26 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/srajib/public_html/basmah_attendance/note.php on line 287
+[21-Oct-2023 22:27:49 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/srajib/public_html/basmah_attendance/note.php on line 287
+[21-Oct-2023 22:28:35 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/srajib/public_html/basmah_attendance/note.php on line 287
+[21-Oct-2023 22:28:40 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/srajib/public_html/basmah_attendance/note.php on line 287
+[21-Oct-2023 22:28:58 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/srajib/public_html/basmah_attendance/note.php on line 287
+[21-Oct-2023 22:31:34 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/srajib/public_html/basmah_attendance/note.php on line 287
+[23-Oct-2023 17:12:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:12:34 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:12:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:12:49 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:12:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:12:57 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:13:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:13:59 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:14:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:14:09 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:32:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:32:38 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:34:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:34:19 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:34:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:34:24 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:35:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:35:30 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:35:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:35:36 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[23-Oct-2023 17:43:15 UTC] PHP Parse error:  syntax error, unexpected '$rowEmp' (T_VARIABLE) in /home/srajib/public_html/basmah_attendance/note.php on line 239
+[23-Oct-2023 21:54:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 21:54:41 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 21:54:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 21:54:56 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 21:55:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 21:55:40 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 21:55:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 21:55:51 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 21:56:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 21:56:03 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 21:56:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 21:56:47 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 21:59:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 21:59:06 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:00:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:00:23 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:00:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:00:31 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:01:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:01:39 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:03:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:03:18 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:04:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:04:56 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:04:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:04:57 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:05:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:05:06 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:11:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:11:40 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:14:30 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/srajib/public_html/basmah_attendance/note.php on line 2
+[23-Oct-2023 22:15:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:15:20 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:16:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:16:13 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:18:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:18:17 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:28:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:28:17 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:54:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:54:43 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:54:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 22:54:51 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 23:26:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 23:26:18 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 23:46:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 23:46:15 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 209
+[23-Oct-2023 23:50:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 208
+[23-Oct-2023 23:50:04 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 208
+[24-Oct-2023 00:08:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 208
+[24-Oct-2023 00:08:12 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 208
+[24-Oct-2023 00:08:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 208
+[24-Oct-2023 00:08:18 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 208
+[24-Oct-2023 00:12:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 208
+[24-Oct-2023 00:12:06 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 208
+[24-Oct-2023 00:15:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[24-Oct-2023 00:15:11 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[24-Oct-2023 00:28:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 00:28:35 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 00:33:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 00:33:27 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 00:33:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[24-Oct-2023 00:33:32 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[24-Oct-2023 00:33:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 00:33:38 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 00:37:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 00:37:48 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 00:37:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 00:37:50 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 00:37:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 00:37:53 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 00:37:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 00:37:53 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 01:00:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[24-Oct-2023 01:00:43 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[24-Oct-2023 13:07:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[24-Oct-2023 13:07:45 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[24-Oct-2023 14:48:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[24-Oct-2023 14:48:47 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[24-Oct-2023 15:18:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[24-Oct-2023 15:18:44 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[24-Oct-2023 15:19:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 211
+[24-Oct-2023 15:19:25 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 211
+[24-Oct-2023 15:20:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 211
+[24-Oct-2023 15:20:29 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 211
+[24-Oct-2023 15:20:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 15:20:36 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 15:20:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 211
+[24-Oct-2023 15:20:44 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 211
+[24-Oct-2023 15:21:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 211
+[24-Oct-2023 15:21:19 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 211
+[24-Oct-2023 15:53:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 211
+[24-Oct-2023 15:53:59 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 211
+[24-Oct-2023 15:54:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 211
+[24-Oct-2023 15:54:07 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 211
+[24-Oct-2023 15:54:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 211
+[24-Oct-2023 15:54:51 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 211
+[24-Oct-2023 15:54:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 211
+[24-Oct-2023 15:54:52 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 211
+[24-Oct-2023 16:00:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[24-Oct-2023 16:00:54 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[24-Oct-2023 16:00:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[24-Oct-2023 16:00:58 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 210
+[24-Oct-2023 16:04:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 208
+[24-Oct-2023 16:04:33 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 208
+[24-Oct-2023 16:13:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 208
+[24-Oct-2023 16:13:37 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 208
+[24-Oct-2023 16:13:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 16:13:47 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 16:18:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 300
+[24-Oct-2023 16:18:07 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 300
+[24-Oct-2023 16:19:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 300
+[24-Oct-2023 16:19:41 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 300
+[24-Oct-2023 16:22:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 16:22:40 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 16:24:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 16:24:45 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note_.php on line 300
+[24-Oct-2023 16:24:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 202
+[24-Oct-2023 16:24:54 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 202
+[24-Oct-2023 16:33:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 202
+[24-Oct-2023 16:33:37 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 202
+[24-Oct-2023 16:40:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 202
+[24-Oct-2023 16:40:17 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 202
+[24-Oct-2023 16:40:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 202
+[24-Oct-2023 16:40:28 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/note.php on line 202
+[24-Oct-2023 21:30:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/srajib/public_html/basmah_attendance/note.php on line 436
+[24-Oct-2023 21:35:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/srajib/public_html/basmah_attendance/note.php on line 273
+[24-Oct-2023 21:35:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/srajib/public_html/basmah_attendance/note.php on line 273
+[24-Oct-2023 21:37:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/srajib/public_html/basmah_attendance/note.php on line 273
+[24-Oct-2023 21:37:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/srajib/public_html/basmah_attendance/note.php on line 273
+[24-Oct-2023 21:37:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/srajib/public_html/basmah_attendance/note.php on line 273
+[24-Oct-2023 21:37:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/srajib/public_html/basmah_attendance/note.php on line 273
+[24-Oct-2023 22:22:47 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/pagination_data.php on line 5
+[07-Nov-2023 17:53:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 246
+[07-Nov-2023 17:53:42 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 262
+[07-Nov-2023 17:55:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 246
+[07-Nov-2023 17:55:09 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 262
+[07-Nov-2023 17:55:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 246
+[07-Nov-2023 17:55:11 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 262
+[07-Nov-2023 17:55:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 246
+[07-Nov-2023 17:55:15 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 262
+[07-Nov-2023 17:56:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 246
+[07-Nov-2023 17:56:41 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 262
+[07-Nov-2023 17:58:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 246
+[07-Nov-2023 17:58:24 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 262
+[07-Nov-2023 17:58:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 246
+[07-Nov-2023 17:58:25 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 262
+[07-Nov-2023 17:58:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 246
+[07-Nov-2023 17:58:32 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 262
+[07-Nov-2023 17:58:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 246
+[07-Nov-2023 17:58:54 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 262
+[07-Nov-2023 18:07:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 246
+[07-Nov-2023 18:07:56 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 262
+[07-Nov-2023 18:13:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 246
+[07-Nov-2023 18:13:24 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/srajib/public_html/basmah_attendance/admin_index.php on line 262
